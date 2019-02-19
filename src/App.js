@@ -10,7 +10,7 @@ class App extends Component {
         <ConnectedUsers />
       </div>
     );
-  }
-}
+  };
+};
 
 export default App;
